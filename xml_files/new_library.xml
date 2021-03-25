@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>Виктор Юго</author>
+        <name>Парижката света богородица</name>
+    </book>
+    <book>
+        <author>Дъглас Адамс</author>
+        <name>Пътеводител на галактическия стопаджия</name>
+    </book>
+    <book>
+        <author>New Author</author>
+        <name>New Book</name>
+    </book>
+</books>

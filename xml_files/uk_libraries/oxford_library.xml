@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>William Shakespeare</author>
+        <name>Hamlet</name>
+    </book>
+    <book>
+        <author>William Shakespeare</author>
+        <name>King Lear</name>
+    </book>
+</books>
